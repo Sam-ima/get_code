@@ -1,0 +1,13 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.Container{
+    height: 100vh;    
+    /*  vh-vertical height */
+    width: 100%;
+    background-color: rgb(18, 123, 123);
+}
+
+

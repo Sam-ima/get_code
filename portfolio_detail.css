@@ -1,0 +1,67 @@
+.Container .portfolio_detail{
+    height: auto;
+    width: 100%;
+    /* background-color: #cb0d0d; */
+    padding: 200px 0px;
+    
+}
+.Container .portfolio_detail .protfolio_content{
+    height: auto;
+    width: 100%;
+    /* background-color: #125394; */
+    padding: 10px;
+    justify-content: space-between;
+}
+.Container .portfolio_detail .protfolio_content .pp1{
+    height:auto;
+    width: 100%;
+    /* background-color: rgb(193, 154, 102); */
+    font-size: 24px;
+    text-align: right;
+    padding: 20px 200px 20px 1px;
+
+span{
+    margin: 6px;
+}
+}
+.Container .portfolio_detail .protfolio_content .pp2{
+    height:230px ;
+    width:100% ;
+    /* background-color:rgb(88, 34, 139) ; */
+    display: flex;
+    position: relative;
+    justify-content: space-around;
+
+}
+.Container .portfolio_detail .protfolio_content .pp2 .pic_wrapup{
+    height:120px ;
+    width:40%;
+    /* background-color:#121111 ; */
+    display: flex;
+    position: relative;
+
+}
+
+.Container .portfolio_detail .protfolio_content .pp2 .pic_wrapup .pic{
+    height:180px ;
+    width:50% ;
+    background-color:rgb(128, 139, 34) ;
+    position: absolute;
+    top: -90px;
+    border-radius: 20px;
+    background-image: url('cat.webp');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.Container .portfolio_detail .protfolio_content .pp2 .des{
+    height:130px ;
+    width:50% ;
+    background-color:rgb(208, 27, 124) ;
+    border-radius: 20px;
+    background-image: url('house.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+
+}

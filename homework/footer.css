@@ -1,0 +1,16 @@
+.container .footer{
+    height: 50px;
+    width: 100%;
+    background-color: rgb(203,239,239);
+    
+    
+
+}
+.container .footer .img{
+    height: 40px;
+    width: 40px;
+    background-image: url('devBabu.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}

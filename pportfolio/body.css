@@ -1,0 +1,50 @@
+.container .body{
+    height: 500px;
+    width: 100%;
+    background-color: #b56210;
+    /* position: relative; */
+}
+.container .body .portfolio_content{
+    height: 100px;
+    width: 150px;
+    justify-content: space-between;
+    /* background-color: aqua; */
+    align-items: center;
+    font-size: 22px;
+    /* text-align: right; */
+    position: relative;
+    /* justify-content: space-around; */
+    /* display: flex; */
+    /* position: absolute; */
+    /* top:300px; */
+}
+.container .body .portfolio_content .hi{
+    height: 150px;
+    width: 100%;
+    background-color: #6218ea;
+    position: absolute;
+    border-radius: 50px;
+    margin: 50px 50px  ;
+}
+.container .body .portfolio_content .hi .s1{
+    position: absolute;
+    top:0px;
+
+}
+.container .body .pd .pic_wrapup{
+    height: 200px;
+    width: 200px;
+    /* background-color: aqua; */
+    position: absolute;
+    top: 280px;
+    left: 400px;
+
+}
+.container .body .pd .pic_wrapup .pic{
+    height: 150px;
+    width: 100%;
+    background-color: aqua;
+    border-radius: 50px;
+    /* position: absolute; */
+
+}
